@@ -7,7 +7,7 @@ In this project, I use knowledge of computer vision techniques to build a classi
 
 
 Following the project pipeline below, the project is borkend down into a few sections.
-![Capturesss](https://user-images.githubusercontent.com/48291391/61484669-61de5180-a96d-11e9-9851-fda95e4ef447.PNG | width=200 )
+![Capturesss](https://user-images.githubusercontent.com/48291391/61484669-61de5180-a96d-11e9-9851-fda95e4ef447.PNG)
 
   **1. Loading and visualizing the data.**  
      80% used as trainig images; 20% used as testing images
