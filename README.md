@@ -3,11 +3,11 @@
 ## Overview
 In this project, I use knowledge of computer vision techniques to build a classifier for images of traffic lights to identify which is red, yellow, or green.
 
-<img width="623" alt="all-lights" src="https://user-images.githubusercontent.com/48291391/61484597-322f4980-a96d-11e9-83bc-bf1cf81394f7.png" width="200" height="400" />
+<img width="623" alt="all-lights" src="https://user-images.githubusercontent.com/48291391/61484597-322f4980-a96d-11e9-83bc-bf1cf81394f7.png" width="200" height="200" />
 
 
 Following the project pipeline below, the project is borkend down into a few sections.
-![Capturesss](https://user-images.githubusercontent.com/48291391/61484669-61de5180-a96d-11e9-9851-fda95e4ef447.PNG=200x400 )
+![Capturesss](https://user-images.githubusercontent.com/48291391/61484669-61de5180-a96d-11e9-9851-fda95e4ef447.PNG | width=200 )
 
   **1. Loading and visualizing the data.**  
      80% used as trainig images; 20% used as testing images
