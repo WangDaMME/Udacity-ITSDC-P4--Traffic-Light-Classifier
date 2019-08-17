@@ -26,4 +26,6 @@ Following the project pipeline below, the project is borkend down into a few sec
 
 ## Example of the Results
 
+  As shown below, a green traffic light is cropped into 3 sections, upper regions for where the red light locate, middle region for yellow lights, and bottom regions for green light. Then, each section is masked out the HSV values to show its brightness. After calculating the average brighness of 3 sections, the bottom area has the maximum intensity so it classified as a Green Light.
+
 ![result1](https://user-images.githubusercontent.com/48291391/61486267-044c0400-a971-11e9-8952-87be8e80e201.PNG)
